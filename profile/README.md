@@ -1,8 +1,8 @@
-# Portland State University Computer Science Department
+# 🌟 Portland State University Computer Science Department 🌟
 
 Welcome to the official GitHub organization for the Portland State University Computer Science Department. This organization is a hub for collaborative projects, coursework, and research initiatives.
 
-## Why We Need This Organization
+## 🌐 Why We Need This Organization
 
 ### Centralized Collaboration and Communication
 
